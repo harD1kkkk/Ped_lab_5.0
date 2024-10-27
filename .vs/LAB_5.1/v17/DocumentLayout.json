@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\arthu\\source\\repos\\Ped\\LAB_5.1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0804CC04-FCDC-4A96-9761-28E2576D1D61}|UnitTest1\\UnitTest1.vcxproj|C:\\Users\\arthu\\source\\repos\\Ped\\LAB_5.1\\UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0804CC04-FCDC-4A96-9761-28E2576D1D61}|UnitTest1\\UnitTest1.vcxproj|solutionrelative:UnitTest1\\UnitTest1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D1FA0AE7-E22E-41E8-B9BE-33FCEE292867}|LAB_5.1\\LAB_5.1.vcxproj|C:\\Users\\arthu\\source\\repos\\Ped\\LAB_5.1\\LAB_5.1\\lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D1FA0AE7-E22E-41E8-B9BE-33FCEE292867}|LAB_5.1\\LAB_5.1.vcxproj|solutionrelative:LAB_5.1\\lab_5.1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UnitTest1.cpp",
+              "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\Ped\\LAB_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeDocumentMoniker": "UnitTest1\\UnitTest1.cpp",
+              "ToolTip": "C:\\Users\\arthu\\source\\repos\\Ped\\LAB_5.1\\UnitTest1\\UnitTest1.cpp",
+              "RelativeToolTip": "UnitTest1\\UnitTest1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T12:07:55.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "lab_5.1.cpp",
               "DocumentMoniker": "C:\\Users\\arthu\\source\\repos\\Ped\\LAB_5.1\\LAB_5.1\\lab_5.1.cpp",
               "RelativeDocumentMoniker": "LAB_5.1\\lab_5.1.cpp",
